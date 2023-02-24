@@ -1,3 +1,10 @@
+
+
+
+![Captura de tela 2023-02-24 172550](https://user-images.githubusercontent.com/83146122/221290076-53b512ac-c3bf-46ca-86d6-caeaac39fbfe.png)
+
+![WeatherAPI](https://user-images.githubusercontent.com/83146122/221290216-5d99d31f-ff11-44e8-94ca-e5a7da546947.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +51,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
