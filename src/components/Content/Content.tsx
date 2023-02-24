@@ -1,11 +1,7 @@
-import { useEffect } from "react";
-
 import * as C from "./styles"
+
 export default function Content({ post }: any) {
 
-    useEffect(() => {
-
-    })
     return (
 
         <C.Box_Container>

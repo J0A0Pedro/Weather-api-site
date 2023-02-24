@@ -6,6 +6,7 @@ export const Container = styled.div`
     height:100%;
     margin: auto;
     background-color:#fff;
+    border-radius:12px;
 
     display: flex;
     justify-content: center;
@@ -24,10 +25,9 @@ export const Container = styled.div`
 `;
 export const Input = styled.input`
     width:100%;
-    /* margin-bottom:2%; */
     height:2.5em;
     padding:2%;
-    border-radius: 4px;
+    border-radius: 12px;
     border:none;
 
     @media (max-width:300px){
@@ -36,13 +36,12 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
-    /* background-color: #FCCC74; */
     background-color: #fff;
     color:#969696;
     font-weight:900;
     font-size: 1em;
     border:none;
-    border-radius:4px;
+    border-radius:12px;
     width:15%;
     height:2.5em;
 
